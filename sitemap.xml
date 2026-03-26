@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://xyla.cc/sitemap_style.xsl" type="text/xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://xyla.cc/</loc>
+    </url>
+    <url>
+        <loc>https://xyla.cc/archive/</loc>
+    </url>
+    <url>
+        <loc>https://xyla.cc/blog/</loc>
+    </url>
+    <url>
+        <loc>https://xyla.cc/blog/hello/</loc>
+        <lastmod>2026-03-22</lastmod>
+    </url>
+    <url>
+        <loc>https://xyla.cc/blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://xyla.cc/projects/</loc>
+    </url>
+    <url>
+        <loc>https://xyla.cc/projects/cool-project/</loc>
+    </url>
+    <url>
+        <loc>https://xyla.cc/tags/</loc>
+    </url>
+    <url>
+        <loc>https://xyla.cc/tags/meta/</loc>
+    </url>
+    <url>
+        <loc>https://xyla.cc/tags/news/</loc>
+    </url>
+</urlset>
