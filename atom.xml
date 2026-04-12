@@ -14,7 +14,7 @@
         <tabi:post_listing_date>date</tabi:post_listing_date>
         <tabi:current_section>Xyla</tabi:current_section>
     </tabi:metadata><link rel="extra-stylesheet" href="https://xyla.cc/skins/lavender.css?h=31ee0a710ed660d122f6" /><title>Xyla</title>
-        <subtitle>Wifi Sensing</subtitle>
+        <subtitle>WiFi Sensing</subtitle>
     <link href="https://xyla.cc/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://xyla.cc" rel="alternate" type="text/html"/>
     <generator uri="https://www.getzola.org/">Zola</generator><updated>2026-03-22T00:00:00+00:00</updated><id>https://xyla.cc/atom.xml</id><entry xml:lang="en">
@@ -27,7 +27,7 @@
         <link rel="alternate" href="https://xyla.cc/blog/hello/" type="text/html"/>
         <id>https://xyla.cc/blog/hello/</id>
         
-            <content type="html">&lt;p&gt;This is just the first blog post to try out the website creating system.&lt;&#x2F;p&gt;
+            <content type="html">&lt;p&gt;This is just a first blog post to try things out…&lt;&#x2F;p&gt;
 </content>
         <summary type="html">First post</summary>
         </entry>

@@ -14,7 +14,7 @@
         <tabi:post_listing_date>date</tabi:post_listing_date>
         <tabi:current_section>meta</tabi:current_section>
     </tabi:metadata><link rel="extra-stylesheet" href="https://xyla.cc/skins/lavender.css?h=31ee0a710ed660d122f6" /><title>Xyla - meta</title>
-        <subtitle>Wifi Sensing</subtitle>
+        <subtitle>WiFi Sensing</subtitle>
     <link href="https://xyla.cc/tags/meta/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://xyla.cc/tags/meta/" rel="alternate" type="text/html"/>
     <generator uri="https://www.getzola.org/">Zola</generator><id>https://xyla.cc/tags/meta/atom.xml</id>
